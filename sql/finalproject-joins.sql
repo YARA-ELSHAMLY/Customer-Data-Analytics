@@ -70,7 +70,7 @@ JOIN
     OrderDetails od ON o.OrderID = od.OrderID
 GROUP BY 
     c.CustomerID, c.FirstName, c.LastName;
- -- „‘ ﬂ· «·ﬂ«” Ê„—“ ⁄«„·Ì‰ «Ê—œ—“
+ -- √£√î √ü√° √á√°√ü√á√ì√ä√¶√£√ë√í √ö√á√£√°√≠√§ √á√¶√ë√è√ë√í
 
  GO
 
